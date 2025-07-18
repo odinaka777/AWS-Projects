@@ -47,3 +47,9 @@ As **Team Lead**, I was responsible for:
 ---
 
 🔗 [View Project on GitHub](https://github.com/odinaka777/AWS-Projects.git)
+
+## 📘 Project Documentation
+
+For detailed documentation and project breakdown, check out the Notion page below:
+
+🔗 [View Full Project Documentation](https://www.notion.so/Project-Documentation-21b3fc897d7680049f91c0402e86a1bb?source=copy_link)
